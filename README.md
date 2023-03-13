@@ -8,9 +8,9 @@ This game was created as a part of series on classic arcade games. This is an at
 
 ## 📷 Gameplay Screenshots
 
+![Screenshot (4)](https://user-images.githubusercontent.com/97734029/224825361-cfbb3c9b-762f-4d6d-a400-0bf3d49e0133.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/97734029/224825343-e80bb1a6-c2c4-4023-9b50-3b20d5c43d8d.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/97734029/224825359-c824555d-16cd-414c-a68a-48de75c4779e.png)
-![Screenshot (4)](https://user-images.githubusercontent.com/97734029/224825361-cfbb3c9b-762f-4d6d-a400-0bf3d49e0133.png)
 ![Screenshot (1)](https://user-images.githubusercontent.com/97734029/224825362-6587a9d8-8bf5-4b72-a829-ba92bea8cb68.png)
 
 ## 💬 Feedback
